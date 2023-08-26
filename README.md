@@ -1,4 +1,4 @@
-# Design-pattern
+# Design-pattern-java-example
 
 # Teachers_Students_update
 This is teachers students management system and this more advance then [Teachers_Students]
